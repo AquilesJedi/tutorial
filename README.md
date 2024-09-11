@@ -39,3 +39,7 @@ git add .
 # 8 Deixar comentário
 
 git commit -m "Conteúdo aqui"
+
+# 9 Mandar para o GitHUb
+
+git push
