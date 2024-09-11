@@ -11,8 +11,8 @@ git config --global --unset-all user.name
 
 echo --Adicionando conta GITHUB:--
 
-git config --global user.name "Aquiles Jedi"
-git config --global user.email aquiles.jedi@gmail.com
+git config --global user.name "Editar aqui"
+git config --global user.email teste@gmail.com
 
 echo --Para Clonar o Repositorio:--
 
