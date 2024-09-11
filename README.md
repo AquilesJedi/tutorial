@@ -11,8 +11,8 @@ git config --global --unset-all user.name
 
 # 3 Adicionando conta GITHUB:
 
-git config --global user.name "Aquiles Jedi"
-git config --global user.email aquiles.jedi@gmail.com
+git config --global user.name "Seu UserName"
+git config --global user.email (Seu Email)
 
 # (Repita o primeiro passo para verificar se funcionou)
 
